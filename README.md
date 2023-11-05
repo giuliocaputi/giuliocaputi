@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Giulio
+- 👋 Ciao, I’m Giulio
 - 👀 I study Computer Science and Economics at Bocconi University in Milan, Italy
-- 🌱 Here you find a collection of codes I consider to be cool
+- 🌱 I wrote the codes present here mostly in my spare time, although two repositories contain University projects
 - 📫 If you wish to contact me or get to know more about me, this is my LinkedIn https://www.linkedin.com/in/giulio-caputi-964036186/ 
 
 <!---
