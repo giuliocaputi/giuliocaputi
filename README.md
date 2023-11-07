@@ -1,6 +1,6 @@
 - 👋 Ciao, I’m Giulio
 - 👀 I study Computer Science and Economics at Bocconi University in Milan, Italy
-- 🌱 The majority of the code here was written entirely by me, even though there are 2 repositories containing group works (namely EconometricsGroupAssignment and MissingKnowledgeLink)
+- 🌱 I wrote all the code present here, apart from "EconometricsGroupAssignment", which is a group work for an Econometrics course
 - 📫 If you wish to contact me or get to know more about me, this is my LinkedIn https://www.linkedin.com/in/giulio-caputi-964036186/ 
 
 <!---
